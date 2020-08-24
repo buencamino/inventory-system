@@ -1,0 +1,28 @@
+8-1-2013
+- remove add product -> add product information module
+- search
+- list all re-order button or click re-order column
+- history
+- update quantity
+- news area move lower-right
+- ticker
+- change re-order
+- table click change quantity cell editable, everything else uneditable
+- refresh button, refresh entire table to selecting all product and details
+- category drop down box
+
+
+table
+click event set data to variables
+mouse over magnify quantity
+
+update quantity process
+option a: click cell update quantity
+option b: textbox below update quantity with button
+
+
+tbl_log
+log_ID
+product_ID
+quantity
+date

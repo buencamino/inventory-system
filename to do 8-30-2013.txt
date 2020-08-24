@@ -1,0 +1,31 @@
+modifications
+
+* advanced search
+- customer matching with history(pending approval)
+- searching and real time table updating needs refining, very not smooth
+* possible updating through the table itself...
+x update jframe to resolution of michelle laptop
+* print
+* alphabetical
+- reports module
+- back up button -email me
+* product management module
+
+long-term:
+- excel file for arlene daily print out in pdf(?) for passing to office
+
+
+search-update flow
+a. enter update
+- refresh table
+- position should be the same as previous view
+
+b. refresh button
+- refresh table
+- position should be the same as previous view
+
+c. change re-order
+- refresh table
+- position should be the same as previous view
+
+* noticed problem is the highlighted row constantly disappears as focus is lost on the table
